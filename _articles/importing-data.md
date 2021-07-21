@@ -13,7 +13,7 @@ We recommend importing data into an empty PartBolt database, since otherwise you
 ## Using our standard template
 A normal data import can take a few days for us to process. If you'd like to expedite your import, you can provide your data using our standard template, which reduces the amount of processing we have to do.
 
-[Download template as XLSX file](/img/importing-data/PartBolt Standard Template.xlsx)
+<a href="/img/importing-data/PartBolt Standard Template.xlsx"><i class="fas fa-fw fa-download"></i> Download template as XLSX file</a>
 
 Each line of the template corresponds to a **lot**, and each lot describes the quantity of a part in a location. This is best understood with some sample data:
 
