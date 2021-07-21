@@ -27,7 +27,7 @@ Each line of the template corresponds to a **lot**, and each lot describes the q
 | SAMPLE2     | Different sample part | TSSOP-20 | GeneriCorp   | Shelf B  | 12       |                            |
 | SAMPLE3     | Again a sample part   | QFN-56   | GeneriCorp   | Shelf C  | 63       | Quantity may be inaccurate |
 
-Notice that the three entries for "SAMPLE1" will be combined into one PartBolt part with different three lots. The first time that our importer encounters a part number, package, manufacturer, or location that does not already exist, it will automatically be created. For example, as the first row is processed, the package "DIP-28", manufacturer "Test Corp" and location "Shelf A" would be created; however, any future references to that package, manufacturer, or location would then use the existing entry.
+Notice that the three entries for "SAMPLE1" will be combined into one PartBolt part with three different lots. The first time that our importer encounters a part number, package, manufacturer, or location that does not already exist, it will automatically be created. For example, as the first row is processed, the package "DIP-28", manufacturer "Test Corp" and location "Shelf A" would be created; however, any future references to that package, manufacturer, or location would then use the existing entry.
 
 Part numbers, packages, manufacturers, and locations are matched by their names, so it's very important to be consistent. For example, if you had one part with a manufacturer of "Test Corp" and another with "Test Corporation", this would be imported as two separate manufacturers.
 
