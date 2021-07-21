@@ -1,7 +1,7 @@
 ---
 title: Importing data
 layout: article
-description: Learn how to import existing data into your PartBolt database.
+description: Learn how easy it is to import existing inventory data into your PartBolt database.
 ---
 
 If you're coming to PartBolt from different inventory software (or a spreadsheet), we're happy to help import your existing data&mdash;just send an email to [support@partbolt.com](mailto:support@partbolt.com). We'll need two things to process the import:
