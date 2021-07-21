@@ -10,6 +10,8 @@ If you're coming to PartBolt from different inventory software (or a spreadsheet
 
 We recommend importing data into an empty PartBolt database, since otherwise you might run into issues merging the imported data with what's already in PartBolt. We're happy to create a new database if that's what you want&mdash;just let us know.
 
+If you have any questions about importing data, please don't hesitate to email us at [support@partbolt.com](mailto:support@partbolt.com). We'll be happy to help!
+
 ## Using our standard template
 A normal data import can take a few days for us to process. If you'd like to expedite your import, you can provide your data using our standard template, which reduces the amount of processing we have to do.
 
