@@ -29,6 +29,6 @@ Each line of the template corresponds to a **lot**, and each lot describes the q
 
 Notice that the three entries for "SAMPLE1" will be combined into one PartBolt part with three different lots. The first time that our importer encounters a part number, package, manufacturer, or location that does not already exist, it will automatically be created. For example, as the first row is processed, the package "DIP-28", manufacturer "Test Corp" and location "Shelf A" would be created; however, any future references to that package, manufacturer, or location would then use the existing entry.
 
-Part numbers, packages, manufacturers, and locations are matched by their names, so it's very important to be consistent. For example, if you had one part with a manufacturer of "Test Corp" and another with "Test Corporation", this would be imported as two separate manufacturers.
+Part numbers, packages, manufacturers, and locations are matched by their names, so it's important to be consistent. For example, if you had one part with a manufacturer of "Test Corp" and another with "Test Corporation", this would be imported as two separate manufacturers.
 
 For each row, all fields are required except for the package and lot description. Conditional formatting has been enabled on our standard template, so if you leave a required field empty, it will be shown in red.
