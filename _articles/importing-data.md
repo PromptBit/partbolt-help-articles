@@ -17,6 +17,8 @@ A normal data import can take a few days for us to process. If you'd like to exp
 
 <a href="/img/importing-data/PartBolt Standard Template.xlsx"><i class="fas fa-fw fa-download"></i> Download template as XLSX file</a>
 
+<a href="/img/importing-data/PartBolt Standard Template with Sample Data.xlsx"><i class="fas fa-fw fa-download"></i> Download template as XLSX file (with sample data)</a>
+
 Each line of the template corresponds to a **lot**, and each lot describes the quantity of a part in a location. This is best understood with some sample data:
 
 | Part number | Name                  | Package  | Manufacturer | Location | Quantity | Lot description            |
