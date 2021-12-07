@@ -23,3 +23,5 @@ Once you've exported your BOM, go to PartBolt and open the project you'd like to
 4. Once you've labeled all the columns, click **Next <i class="fas fa-fw fa-chevron-right"></i>**.
 5. PartBolt will group the parts of your BOM by their number/value. Using the dropdowns on the right, match the groups with the corresponding parts in your inventory.
 6. Once you've matched all the parts, click **<i class="fas fa-fw fa-check"></i> Done**.
+
+If you encounter issues with this process, or need to import data from software that cannot export a CSV file, please contact us at [support@partbolt.com](mailto:support@partbolt.com) and we'll be happy to help!
