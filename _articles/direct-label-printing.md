@@ -8,7 +8,7 @@ description: Learn about direct label printing, which lets you print PartBolt in
 <div class="notification is-warning">
 	<div><strong><i class="fas fa-fw fa-exclamation-triangle"></i> Limited support</strong></div>
 	This feature is currently supported on Linux, macOS, and Android.
-	We're still working on adding support for computers running Microsoft Windows.
+	We're still working on support for computers running Microsoft Windows.
 </div>
 
 If you've got a compatible label printer, you can print tracking labels directly from PartBolt. To learn more about tracking labels and how they work, see our article on [item codes](/articles/item-codes).
