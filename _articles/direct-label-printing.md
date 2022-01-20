@@ -6,7 +6,8 @@ description: Learn about direct label printing, which lets you print PartBolt in
 
 {% include paid_required.html %}
 <div class="notification is-warning">
-	<div><strong><i class="fas fa-fw fa-exclamation-triangle"></i> Windows support is under development</strong></div>
+	<div><strong><i class="fas fa-fw fa-exclamation-triangle"></i> Limited support</strong></div>
+	This feature is currently supported on Linux, macOS, and Android.
 	We're still working on supporting this feature for computers running Microsoft Windows.
 </div>
 
