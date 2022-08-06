@@ -1,5 +1,5 @@
 ---
-title: Setup on Windows
+title: Windows setup
 layout: article
 parent: direct-label-printing
 description: Learn how to set up direct label printing for Windows, so you can print PartBolt inventory labels straight from your browser. Compatible label printer required.
