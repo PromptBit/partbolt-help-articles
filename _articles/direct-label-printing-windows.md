@@ -5,9 +5,9 @@ parent: direct-label-printing
 description: Learn how to set up direct label printing for Windows, so you can print PartBolt inventory labels straight from your browser. Compatible label printer required.
 ---
 
-On Windows, there's a few extra steps you need to do so that we can access your label printer. You'll only need to do this once.
+On Windows, there's a few extra steps you need to do first. These steps make sure we can access your label printer, and you'll only need to do them once.
 
-First, [download Zadig](https://zadig.akeo.ie/){:target="_blank"}{:rel="noopener noreferrer"}, a free tool that will let you reconfigure your label printer. Then, follow these steps:
+First, [download Zadig](https://zadig.akeo.ie/){:target="_blank"}{:rel="noopener noreferrer"}, a free tool that will let you reconfigure your label printer. Then:
 
 1. Make sure your label printer is powered on and plugged into your computer.
 2. Open Zadig.
