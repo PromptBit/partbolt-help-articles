@@ -1,6 +1,7 @@
 ---
 title: Direct label printing
 layout: article
+children: ["direct-label-printing-windows"]
 description: Learn about direct label printing, which lets you print PartBolt inventory labels straight from your browser. Compatible label printer required.
 ---
 
