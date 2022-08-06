@@ -7,7 +7,7 @@ description: Learn how to set up direct label printing for Windows, so you can p
 
 On Windows, there's a few extra steps you need to do so that we can access your label printer. You'll only need to do this once.
 
-First, [download Zadig](https://zadig.akeo.ie/), a free tool that will let you reconfigure your label printer. Then, follow these steps:
+First, [download Zadig](https://zadig.akeo.ie/){:target="_blank"}{:rel="noopener noreferrer"}, a free tool that will let you reconfigure your label printer. Then, follow these steps:
 
 1. Make sure your label printer is powered on and plugged into your computer.
 2. Open Zadig.
