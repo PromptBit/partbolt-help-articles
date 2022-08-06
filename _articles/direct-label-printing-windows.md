@@ -23,7 +23,7 @@ First, [download Zadig](https://zadig.akeo.ie/), a free tool that will let you r
     <div class="step-image" style="max-width: 575px"><img src="/img/direct-label-printing/windows/zadig_success.png" alt="Image of the success dialog." /></div>
 8. After this process, your label printer will be compatible with PartBolt, and you can follow the [regular procedure to add a printer](/articles/direct-label-printing#adding-a-printer). However, your label printer might not work with other software &mdash; to restore that functionality, follow the steps below.
 
-## Restoring standard operation
+## Undoing these instructions
 After following the above procedure, your label printer might not work with any software from its original manufacturer. If you want to restore operation with that software, follow these steps:
 
 1. Make sure your label printer is powered on and plugged into your computer.
