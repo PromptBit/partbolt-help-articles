@@ -1,7 +1,8 @@
 ---
-title: Importing a Bill of Materials from CSV
+title: Importing a Bill of Materials
 layout: article
 description: Learn how easy it is to import a Bill of Materials (BOM) from external software into a PartBolt project.
+redirect_from: /articles/import-bom-from-csv
 ---
 
 With PartBolt, it's easy to import a Bill of Materials (BOM) into a project.
