@@ -8,7 +8,7 @@ For certain items in your PartBolt database, such as parts, locations, and lots,
 
 ![Example of a code](/img/item-codes/code_example.png)
 
-When you click on this code, PartBolt will automatically generate a label for you. The label will contain some brief information about the item and a QR code. Scanning the QR code will open the relevant page in PartBolt. These labels make it easy to track parts in the real world. For more information, you can read about how to [print tracking labels](/articles/direct-label-printing).
+When you click on this code, PartBolt will automatically generate a label for you. The label will contain some brief information about the item and a QR code. Scanning the QR code will open the relevant page in PartBolt. These labels make it easy to track parts in the real world. For more information, you can read about how to [print tracking labels](/articles/single-click-print).
 
 ![Example of a label](/img/item-codes/label_example.png)
 

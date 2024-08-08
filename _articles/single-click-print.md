@@ -1,8 +1,9 @@
 ---
-title: Direct label printing
+title: Single-click print
 layout: article
-children: ["direct-label-printing-windows"]
-description: Learn about direct label printing, which lets you print PartBolt inventory labels straight from your browser. Compatible label printer required.
+children: ["single-click-print-windows"]
+description: Learn about single-click printing, which lets you print PartBolt inventory labels straight from your browser. Compatible label printer required.
+redirect_from: /articles/direct-label-printing
 ---
 
 {% include paid_required.html %}
@@ -18,7 +19,7 @@ The supported label sizes are:
 We're always looking to expand this list! If you have a label printer that isn't listed above, contact us at [support@partbolt.com](mailto:support@partbolt.com), and we'll look into adding support for it.
 
 ## Adding a printer
-First, make sure you're using Google Chrome, as direct label printing requires it. Also, if you're using Windows, you must [follow these one-time setup instructions](/articles/direct-label-printing-windows) first.
+First, make sure you're using Google Chrome, as single-click print requires it. Also, if you're using Windows, you must [follow these one-time setup instructions](/articles/single-click-print-windows) first.
 
 1. Click on the tracking code for any item in your inventory, and, in the window that appears with your label, click **<i class="fas fa-fw fa-print"></i> Print**.
 2. Click **<i class="fas fa-fw fa-plus"></i> Add printer**
@@ -38,7 +39,7 @@ If your label printer doesn't appear in the list of printers, or you're having s
 * Make sure the "Editor Lite" mode is **OFF**&mdash;that means the light above that button should be off. If it's on, you can turn it off by pressing and holding the "Editor Lite" button for a few seconds.
     <div style="max-width: 500px"><img src="/img/direct-label-printing/editor_lite_off.jpg" alt="The Editor Lite button" /></div>
 * Try a different USB port.
-* If you're using Windows, make sure you've completed the [Windows-specific setup instructions](/articles/direct-label-printing-windows).
+* If you're using Windows, make sure you've completed the [Windows-specific setup instructions](/articles/single-click-print-windows).
 * If you're using Linux, you might need to disable the existing `usblp` printer driver. You can do this by running `sudo modprobe -r usblp`. The driver will be disabled until you reboot, or you run `sudo modprobe usblp` to reload it.
 
 If you're still having trouble with your label printer, please contact us at [support@partbolt.com](mailto:support@partbolt.com), and we'll be happy to help!
