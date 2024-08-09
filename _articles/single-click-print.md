@@ -25,7 +25,7 @@ First, make sure you're using Google Chrome, as single-click print requires it. 
 2. Click **<i class="fas fa-fw fa-plus"></i> Add printer**
 3. Make sure your label printer is plugged into power, turned on, and connected to your computer.
 4. Make sure the "Editor Lite" mode is **OFF**&mdash;that means the light above that button should be off. If it's on, you can turn it off by pressing and holding the "Editor Lite" button for a few seconds.
-    <div style="max-width: 500px"><img src="/img/direct-label-printing/editor_lite_off.jpg" alt="The Editor Lite button" /></div>
+    <div style="max-width: 500px"><img src="/img/single-click-print/editor_lite_off.jpg" alt="The Editor Lite button" /></div>
 5. Click **<i class="fas fa-fw fa-plug"></i> Got it, connect printer**.
 6. Select your label printer from the list that appears.
 7. You're done!
@@ -37,7 +37,7 @@ When you click on an item's tracking code, you'll open up its label. Once you've
 If your label printer doesn't appear in the list of printers, or you're having some other difficulties, there are some things you can check first.
 * Make sure the printer's power light is on, and make sure it's plugged into your computer.
 * Make sure the "Editor Lite" mode is **OFF**&mdash;that means the light above that button should be off. If it's on, you can turn it off by pressing and holding the "Editor Lite" button for a few seconds.
-    <div style="max-width: 500px"><img src="/img/direct-label-printing/editor_lite_off.jpg" alt="The Editor Lite button" /></div>
+    <div style="max-width: 500px"><img src="/img/single-click-print/editor_lite_off.jpg" alt="The Editor Lite button" /></div>
 * Try a different USB port.
 * If you're using Windows, make sure you've completed the [Windows-specific setup instructions](/articles/single-click-print-windows).
 * If you're using Linux, you might need to disable the existing `usblp` printer driver. You can do this by running `sudo modprobe -r usblp`. The driver will be disabled until you reboot, or you run `sudo modprobe usblp` to reload it.
