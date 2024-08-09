@@ -8,7 +8,7 @@ redirect_from: /articles/direct-label-printing
 
 {% include paid_required.html %}
 
-If you've got a compatible label printer, you can print tracking labels directly from PartBolt. To learn more about tracking labels and how they work, see our article on [item codes](/articles/item-codes).
+If you have a compatible label printer, you can print tracking labels directly from PartBolt. To learn more about tracking labels and how they work, see our article on [item codes](/articles/item-codes).
 
 Currently, the supported label printers are:
 * Brother QL-800
