@@ -9,7 +9,7 @@ With PartBolt, it's easy to import a Bill of Materials (BOM) into a project. We 
 
 ## Supported formats
 #### Altium Designer
-PartBolt is able to read a PCB file (.PcbDoc) created by Altium Designer. You just need to upload an individual .PcbDoc file&mdash;any schematic (.SchDoc) or project (.PcbPrj) files are not required.
+PartBolt is able to read a PCB file (.PcbDoc) created by Altium Designer. You just need to upload an individual .PcbDoc file&mdash;any schematic (.SchDoc) or project (.PrjPcb) files are not required.
 
 Please note that we currently only support Altium's "PCB Binary Version 6.0" format. (This version was introduced in Altium Designer 6.3, which was released in 2006&mdash;so, you're probably already using it!)
 
