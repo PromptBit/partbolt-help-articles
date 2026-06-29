@@ -1,7 +1,7 @@
 ---
 title: Linking parts
 layout: article
-description: You can link parts in your inventory to entries, an online database of electronic components, to get quick access to documentation and other information.
+description: You can link parts in your inventory to an entry in our database of electronic components, to get quick access to documentation and other information.
 redirect_from: /articles/linking-parts-to-octopart
 ---
 
